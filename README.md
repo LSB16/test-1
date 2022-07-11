@@ -83,3 +83,7 @@
  
  [깃허브](https://github.com/LSB16, "LSB")
  
+이미지 삽입하기
+
+![쪼말이](./source_img/jjomal2.jpg)
+
